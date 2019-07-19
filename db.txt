@@ -1,4 +1,4 @@
-host=localhost
-user=qifan
-pwd=qifan
-db=qftest
+host=host
+user=user
+pwd=pwd
+db=db
