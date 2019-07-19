@@ -1,0 +1,4 @@
+host=localhost
+user=qifan
+pwd=qifan
+db=qftest
